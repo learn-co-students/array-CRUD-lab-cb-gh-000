@@ -20,7 +20,7 @@ In this lab, we will be coding the solutions for each of the above tasks in the 
 Let's go through the first challenge together.
 
 ### `#create_an_empty_array`
-
+j
 Let's run our test suite to get started. Run the tests one at a time with the `learn --fail-fast` command in your terminal.
 
 If we do so, we'll see our first failure:
